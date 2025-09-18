@@ -1,2 +1,2 @@
-# My-first-Repository
-My first Repository
+# Mein-kleines-Notizbuch
+Ein Notizbuch für Einkaufslisten und andere Notizen
